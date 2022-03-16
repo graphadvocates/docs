@@ -1,8 +1,11 @@
 # Table of contents
 
+* [Welcome](README.md)
+
 ## Grant Showroom
 
-* [Completed grants](README.md)
+* [Overview](grant-showroom/overview.md)
+* [Completed grants](<README (1).md>)
 * [Grants in progress](grant-showroom/grants-in-progress.md)
 * [Continuous grants](grant-showroom/continuous-grants.md)
 
@@ -29,6 +32,7 @@
 
 ## Graph AdvocatesDAO
 
+* [Overview](graph-advocatesdao/overview.md)
 * [Applying for Graph AdvocatesDAO](graph-advocatesdao/applying-for-graph-advocatesdao.md)
 * [Processing a community grant](graph-advocatesdao/processing-a-community-grant.md)
 * [DAOHaus Processes](graph-advocatesdao/daohaus-processes.md)
