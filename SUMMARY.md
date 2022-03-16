@@ -5,7 +5,7 @@
 ## Grant Showroom
 
 * [Overview](grant-showroom/overview.md)
-* [Completed grants](README.md)
+* [Completed grants](<README (1).md>)
 * [Grants in progress](grant-showroom/grants-in-progress.md)
 * [Continuous grants](grant-showroom/continuous-grants.md)
 

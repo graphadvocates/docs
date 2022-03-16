@@ -1,10 +1,10 @@
 # Roles
 
-## Event Evangelists
+## Event Evangelist
 
-## Content Creators
+## Content Creator
 
-## Text Translators
+## Text Translator
 
 ## Community Care
 
