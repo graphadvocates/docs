@@ -4,8 +4,8 @@ The Graph Advocates are here to empower people passionate about web3 and decentr
 
 ## Mission
 
-The mission of the Graph AdvocatesDAO is to drive greater participation in building a decentralized web3 and grow The Graph ecosystem by supporting community-based initiatives and through contributions of Graph Advocates.
+The Graph Advocates is a community-led and community-driven initiative serving as a portal into web3 for people all across the world. Advocates will have the unique opportunity to make important contributions that will directly impact their local communities, the web3 mission, and the future of The Graph ecosystem.
 
 ## Qualifications
 
-Everyone can apply to become an Advocate! Strong candidates for the program show a passion for The Graph and the web3 ecosystem. There are no educational or age requirements for this program and people from all corners of the globe can apply.
+Everyone can apply to become an Advocate! Strong candidates for the program show a passion for The Graph and the broader web3 ecosystem. There are no educational or age requirements for this program, and people from all corners of the globe can apply.
