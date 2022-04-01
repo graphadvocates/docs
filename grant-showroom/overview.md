@@ -1,2 +1,3 @@
 # Overview
 
+The Graph Advocates are here to empower people passionate about web3 and decentralization, and enable them to drive community development and growth. The program is a critical component in the decentralization of The Graph’s community, as Advocates will take the lead in creating educational resources, hosting local events, assisting with technical support, and making Graph resources available across the world. Advocates are given the opportunity to coordinate on a broad scale, channeling their collective passion for web3 and decentralization into an educational force for those new to blockchain, web3, or The Graph.
