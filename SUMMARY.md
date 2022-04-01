@@ -28,7 +28,7 @@
 * [Advocate Grants](advocates-program/advocate-grants.md)
 * [Resources](advocates-program/resources.md)
 * [FAQ](advocates-program/faq.md)
-* [Code of Conduct (Placeholder)](https://thegraph.com/en/)
+* [Code of Conduct](https://thegraph.com/advocacy/code-of-conduct/)
 
 ## Graph AdvocatesDAO
 
