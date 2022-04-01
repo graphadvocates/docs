@@ -8,13 +8,13 @@ Any violation of the policies or guidelines contained in this Code of Conduct ca
 ## Purpose and Scope
 The policies and guidelines outlined in this Code of Conduct establish the expectations related to the conduct of participants in Graph Advocates’ program, whether online or offline. This Code extends to, but is not limited to:
 
-Any activities or contributions made as an Advocate in the Graph Advocates’ program;
-The interactions with any members of The Graph ecosystem or interactions with the public about The Graph ecosystem;
-Any communications in The Graph social networks or related forums, person-to-person correspondence, mailing lists, websites, private forums, online chats or messaging, or social media posts;
-Conduct at any online or in-person events, conferences, training, or workshops;
-The creation of, or assisting others in creating, audio, visual, written, digital, or print material.
+- Any activities or contributions made as an Advocate in the Graph Advocates’ program;
+- The interactions with any members of The Graph ecosystem or interactions with the public about The Graph ecosystem;
+- Any communications in The Graph social networks or related forums, person-to-person correspondence, mailing lists, websites, private forums, online chats or messaging, or social media posts;
+- Conduct at any online or in-person events, conferences, training, or workshops;
+- The creation of, or assisting others in creating, audio, visual, written, digital, or print material.
 
-# The Ethos of Graph Advocates
+## The Ethos of Graph Advocates
 
 Advocates are critical to The Graph ecosystem and have the opportunity to make contributions that will shape the future of web3. Advocates understand the unique nature of their role and how their efforts will directly impact The Graph, their local community, the web3 community, and the future of The Graph ecosystem.
 
@@ -25,9 +25,9 @@ Advocates are eager to proactively contribute to The Graph community, grow netwo
 Advocates are expected to make minimum contributions including but not limited to:
 
 - **Event Evangelist**: Host or assist a minimum of one (1) event per quarter and attend a minimum of one (1) event per month.
-Content Creator: Create a minimum of one (1) piece of content per month.
+- **Content Creator**: Create a minimum of one (1) piece of content per month.
 - **Text Translator**: Translate a minimum of 500 words per week and two (2) social media posts per week.
-Community Care: Assist in Telegram, Reddit, or Discord for a minimum of two (2) hours per week.
+- **Community Care**: Assist in Telegram, Reddit, or Discord for a minimum of two (2) hours per week.
 - **Technical Teacher**: Contribute one or more of the following: assist in Telegram, Reddit, or Discord a minimum of two (2) hours per week, or conduct one (1) workshop per quarter, or create one (1) piece of educational content per quarter.
 - **Web3 Welcomer**: Introduce a minimum of one (1) new individual, team, or organization to The Graph or web3 per quarter, or be a panelist/speaker at a minimum of one (1) web3 event (online or in-person) per quarter.
 
@@ -35,7 +35,7 @@ Advocates are encouraged to contribute more than the minimum expectations of the
 
 ## Advocate Conduct
 
-**ACT WITH INTEGRITY**
+### Act With Integrity
 
 Advocates maintain high standards of integrity. Advocates shall not engage in: misleading communications, knowingly sharing false information, intellectual property or copyright infringement or unauthorized disclosure, or misrepresentation.
 
@@ -47,19 +47,19 @@ When providing information about other participants or stakeholder groups in the
 
 Advocates are prohibited from acting in their capacity as Advocates for solicitation or marketing, personal gain, or gain for any other project.
 
-**MAINTAIN PROFESSIONALISM**
+### Maintain Professionalism
 
 Advocates act professionally, including when collecting feedback, criticism, or during times of disagreement. Advocates may not engage in, without limitation: name-calling, hate speech, discrimination of any kind, verbal harassment, insults, highly sarcastic speech, rude remarks or comments; using emotionally charged language or tone; being disruptive to the ecosystem; using inappropriate language, including obscenities or sexually explicit material(s), video, images, or audio; engaging in trivial or unnecessary arguments; and inciting violence or threats towards others or self. Advocates always use preferred titles (including pronouns) and the appropriate tone of voice, while respecting others’ right to privacy.
 
-**BE RESOURCEFUL**
+### Be Resourceful
 
 Advocates understand their abilities as well as limitations, and they find appropriate ways to navigate through different situations. If an Advocate has questions or is unable to utilize the resources around them, it is their responsibility to reach out to domain experts, ecosystem partners, or other Advocates for assistance.
 
-**PRICE TALK**
+### Price Talk
 
 The Advocates Program is intended to support The Graph ecosystem through the development of high-quality content and community contributions. It is not a forum for speculation, price discussion, or financial or investment advice of any kind. In addition to creating legal and regulatory challenges, price talk generally lowers the quality of community discourse, and shifts the focus away from the core contributions The Graph is making toward the decentralized world. Accordingly, Advocates do not participate in communications, discussions, or promotion of anything related to the price of the GRT token. Examples of price talk include, but are not limited to: price speculation, general price talk, technical analysis of GRT charts, shilling, commentary about market caps, supply issuance and inflation, exchange listings, or OTC offers or requests.
 
-**NON-DISPARAGEMENT**
+### Non-disparagement
 
 Advocates create a collaborative community where topics can be discussed openly and respectfully, without making disparaging comments. Advocates are expected to avoid making defamatory, inappropriate or harmful comments, content, or any other material about other Advocates, Graph AdvocatewsDAO, The Graph, ecosystem partners, or any other participants in the community. Advocates should not take any action which would reasonably be expected to adversely affect The Graph or its ecosystem partners. Constructive criticism is best shared in private channels.
 
@@ -91,5 +91,5 @@ Any violation of the policies or guidelines contained in this Code of Conduct ca
 
 The Graph AdvocatesDAO reserves the right to immediately remove an Advocate from the Graph Advocates program and/or Graph AdvocatesDAO without notice or opportunity for a hearing for behavior deemed to be severely disruptive to the ecosystem, the Graph Advocates program, Graph AdvocatesDAO, or this Code of Conduct, or that is extremely inconsistent with The Graph’s mission, values, and goals.
 
-Violations can be reported to info@graphadvocates.com.
+Violations can be reported to **info@graphadvocates.com**.
 
