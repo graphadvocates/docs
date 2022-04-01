@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Graph AdvocatesDAO](README.md)
 
 ## Grant Showroom
 
 * [Overview](grant-showroom/overview.md)
-* [Completed grants](<README (1).md>)
+* [Graph AdvocatesDAO](grant-showroom/readme.md)
 * [Grants in progress](grant-showroom/grants-in-progress.md)
 * [Continuous grants](grant-showroom/continuous-grants.md)
 
@@ -30,14 +30,14 @@
 * [FAQ](advocates-program/faq.md)
 * [Code of Conduct](advocates-program/code-of-conduct.md)
 
-## Graph AdvocatesDAO
+## DAO Operations
 
-* [Overview](graph-advocatesdao/overview.md)
-* [Applying for Graph AdvocatesDAO](graph-advocatesdao/applying-for-graph-advocatesdao.md)
-* [Processing a community grant](graph-advocatesdao/processing-a-community-grant.md)
-* [DAOHaus Processes](graph-advocatesdao/daohaus-processes.md)
-* [Funding](graph-advocatesdao/funding.md)
-* [FAQ](graph-advocatesdao/faq.md)
+* [Overview](dao-operations/overview.md)
+* [Applying for Graph AdvocatesDAO](dao-operations/applying-for-graph-advocatesdao.md)
+* [Processing a community grant](dao-operations/processing-a-community-grant.md)
+* [DAOHaus Processes](dao-operations/daohaus-processes.md)
+* [Funding](dao-operations/funding.md)
+* [FAQ](dao-operations/faq.md)
 * [Graph AdvocatesDAO Charter](https://drive.google.com/file/d/1CEO3hurmAhOIHvvGo9SAtiy31NyFW4n7/view)
 
 ## DAO Committees

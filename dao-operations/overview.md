@@ -1,7 +1,5 @@
 # Overview
 
-
-
 The Graph AdvocatesDAO oversees grants and RFPs focused on community-building efforts in The Graph ecosystem. Community-building means increasing an individual or group's awareness and understanding of, as well as the participation in, The Graph Network or subgraph users, web3 projects and public goods.&#x20;
 
 
