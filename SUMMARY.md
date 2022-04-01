@@ -28,7 +28,7 @@
 * [Advocate Grants](advocates-program/advocate-grants.md)
 * [Resources](advocates-program/resources.md)
 * [FAQ](advocates-program/faq.md)
-* [Code of Conduct (Placeholder)](https://thegraph.com/en/)
+* [Code of Conduct](advocates-program/code-of-conduct.md)
 
 ## Graph AdvocatesDAO
 
@@ -38,7 +38,7 @@
 * [DAOHaus Processes](graph-advocatesdao/daohaus-processes.md)
 * [Funding](graph-advocatesdao/funding.md)
 * [FAQ](graph-advocatesdao/faq.md)
-* [Graph AdvocatesDAO Charter (Placeholder Link)](https://thegraph.com/en/)
+* [Graph AdvocatesDAO Charter](https://drive.google.com/file/d/1CEO3hurmAhOIHvvGo9SAtiy31NyFW4n7/view)
 
 ## DAO Committees
 
