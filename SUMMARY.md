@@ -14,7 +14,7 @@
 * [Overview](community-grants/overview.md)
 * [Applying for a community grant](community-grants/applying-for-a-community-grant.md)
 * [Community feedback on grant proposals](community-grants/community-feedback-on-grant-proposals.md)
-* [Presentating for the grant committee](community-grants/presentating-for-the-grant-committee.md)
+* [Presenting to the Grant Committee](community-grants/presentating-for-the-grant-committee.md)
 * [DAO Voting process](community-grants/dao-voting-process.md)
 * [After receiving a grant](community-grants/after-receiving-a-grant.md)
 * [FAQ](community-grants/faq.md)
