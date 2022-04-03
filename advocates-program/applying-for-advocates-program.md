@@ -6,4 +6,10 @@ Anyone who has a passion for making contributions can apply to become an Advocat
 
 To apply, applicants must complete the Advocate Application and pass the Introductory Graph Questionniare. After completing the application and questionnaire, applicants enter into an initial review process and then advance to two (2) Zoom interviews with members of the Advocates Committee. 
 
-[Click here to apply](https://thegraph.typeform.com/application?typeform-source=thegraph.com)
+<br>
+
+[>>> Click here to apply](https://thegraph.typeform.com/application?typeform-source=thegraph.com)
+
+<br>
+
+[>>> Go to Questionnaire](https://thegraph.typeform.com/to/wAbPVRko)
