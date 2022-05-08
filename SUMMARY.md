@@ -49,3 +49,23 @@
 * [Committee funding](dao-committees/committee-funding.md)
 * [Coordinape](dao-committees/coordinape.md)
 * [FAQ](dao-committees/faq.md)
+
+## GOCs
+
+* GOC-0000 GOC Template
+* GOC-0001 Graph AdvocatesDAO Operating Code Structure
+* GOC-0002 DAO Membership
+* GOC-0003 DAO Committees
+* GOC-0004 Advocate Committee
+* GOC-0005 Grant Committee
+* GOC-0006 Ops Committee
+* GOC-0007 DAO Committee Approval Parameters
+* GOC-0008 DAO Funding
+* GOC-0009 DAO Budgeting
+* GOC-0010 Emergency Multisig
+* GOC-0011 Coordinape
+* GOC-0012 DAO Committee Compensation
+* GOC-0013 Graph Advocates Program Application
+* GOC-0014 Community Grant Application
+* GOC-0015 Twitter Management
+* GOC-0016 Email Management
