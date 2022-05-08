@@ -5,7 +5,6 @@
 ## Grant Showroom
 
 * [Overview](grant-showroom/overview.md)
-* [Graph AdvocatesDAO](grant-showroom/readme.md)
 * [Grants in progress](grant-showroom/grants-in-progress.md)
 * [Continuous grants](grant-showroom/continuous-grants.md)
 
@@ -25,7 +24,6 @@
 * [Roles](advocates-program/roles.md)
 * [Applying for Advocates Program](advocates-program/applying-for-advocates-program.md)
 * [Introducing The Graph](advocates-program/introducing-the-graph.md)
-* [Community Grants](advocates-program/community-grants.md)
 * [Advocate Grants](advocates-program/advocate-grants.md)
 * [Resources](advocates-program/resources.md)
 * [FAQ](advocates-program/faq.md)
@@ -45,7 +43,6 @@
 
 * [Overview](dao-committees/overview.md)
 * [Joining a DAO Committee](dao-committees/joining-a-dao-committee.md)
-* [DAO Committees](dao-committees/dao-committees.md)
 * [Committee funding](dao-committees/committee-funding.md)
 * [Coordinape](dao-committees/coordinape.md)
 * [FAQ](dao-committees/faq.md)
