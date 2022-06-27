@@ -1,6 +1,6 @@
 *Graph AdvocatesDAO Foundation May 18, 2022*
 
-# PRIVACY POLICY
+# Privacy Policy
 The Graph AdvocatesDAO Foundation **(“DAO”, “we”, “us”, “our”)** is a decentralized
 governing body whose mission is to introduce, educate, and invite worldwide participation in
 the development of web3. The DAO oversees, among other activities, the Graph Advocates
@@ -165,7 +165,7 @@ via your privacy settings.
 
 ***
 
-## HOW WE USE YOUR INFORMATION
+## How we use your information
 We use your information for a variety of purposes, including to provide Contributions, for
 administrative purposes, and to market our mission and Contributions, as described below.
 
@@ -233,7 +233,7 @@ information about you to create de-identified and/or aggregated information, suc
 de-identified demographic information, de-identified location information, information about
 the device from which you access our Services, or other analyses we create.
 
-## HOW WE DISCLOSE YOUR INFORMATION
+## How we disclose your information
 We disclose your information to third parties for a variety of purposes, including to provide our
 Services, to protect us or other stakeholders, or in the event of a major business transaction, as
 described below.
@@ -272,7 +272,7 @@ such as a court order or subpoena; protect your, our, or others’ rights, prope
 enforce our policies or contracts; collect amounts owed to us; or assist with an investigation or
 prosecution of suspected or actual illegal activity.
 
-## YOUR PRIVACY CHOICES AND RIGHTS
+## Your privacy choices and rights
 **Your Privacy Choices.** The privacy choices you may have about your personal information are
 determined by applicable law and are described below.
 
@@ -323,7 +323,7 @@ and
 If you would like to exercise any of these rights, please contact us as set forth below. We will process such
 requests in accordance with applicable laws.
 
-## SECURITY OF YOUR INFORMATION
+## Security of your information
 We take steps to ensure that your information is treated securely and in accordance with this
 Privacy Policy. Unfortunately, no system is 100% secure, and we cannot ensure or warrant the
 security of any information you provide to us. We have taken appropriate safeguards to require
@@ -338,19 +338,19 @@ email to you.
 
 ***
 
-## INTERNATIONAL DATA TRANSFERS
+## International data transfers
 All information processed by us may be transferred, processed, and stored anywhere in the
 world, including, but not limited to, the United States or other countries, which may have data
 protection laws that are different from the laws where you live. We endeavor to safeguard your
 information consistent with the requirements of applicable laws.
 
-## RETENTION OF PERSONAL INFORMATION
+## Retention of personal information
 We store the personal information we collect as described in this Privacy Policy for as long as
 you use our Contributions or as necessary to fulfill the purpose(s) for which it was collected,
 provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue
 legitimate business purposes, enforce our agreements, and comply with applicable laws.
 
-## SUPPLEMENTAL NOTICE FOR CALIFORNIA RESIDENTS
+## Supplemental notice for California residents
 This Supplemental California Privacy Notice only applies to our processing of personal
 information that is subject to the California Consumer Privacy Act of 2018 (“CCPA”). The CCPA
 provides California residents with the right to know what categories of personal information we
@@ -403,7 +403,7 @@ parties to whom we have disclosed their personal information (if any) for their 
 purposes in the prior calendar year, as well as the type of personal information disclosed to
 those parties.
 
-## SUPPLEMENTAL NOTICE FOR NEVADA RESIDENTS
+## Supplemental notice for Nevada residents
 If you are a resident of Nevada, you have the right to opt-out of the sale of certain Personal
 Information to third parties who intend to license or sell that Personal Information. You can
 exercise this right by contacting us at info@graphadvocates.com with the subject line “Nevada
@@ -414,11 +414,11 @@ Do Not Sell Request” and providing us with your name and the email address ass
 your account. Please note that we do not currently sell your Personal Information as sales are
 defined in Nevada Revised Statutes Chapter 603A.
 
-## CHILDREN'S INFORMATION
+## Children's information
 The Contributions are not directed to children under 13, and we do not knowingly collect
 personal information from children.
 
-## THIRD-PARTY WEBSITES/APPLICATIONS
+## Thirt-party websites/applications
 The Services may contain links to other websites/applications and other websites/applications
 may reference or link to our Services. These third-party services are not controlled by us. We
 encourage our users to read the privacy policies of each website and application with which
@@ -426,7 +426,7 @@ they interact. We do not endorse, screen or approve, and are not responsible for
 practices or content of such other websites or applications. Providing personal information to
 third-party websites or applications is at your own risk.
 
-## CONTACT US
+## Contact us
 If you have any questions about our privacy practices or this Privacy Policy, or to exercise your
 rights as detailed in this Privacy Policy, please contact us:
 
