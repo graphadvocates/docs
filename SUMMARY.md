@@ -25,7 +25,7 @@
 * [Roles](advocates-program/roles.md)
 * [Applying for Advocates Program](advocates-program/applying-for-advocates-program.md)
 * [Introducing The Graph](advocates-program/introducing-the-graph.md)
-* [Advocate Grants](advocates-program/advocate-grants.md)
+* [Advocate Contributions](advocates-program/advocate-contributions.md)
 * [Resources](advocates-program/resources.md)
 * [FAQ](advocates-program/faq.md)
 * [Code of Conduct](advocates-program/code-of-conduct.md)
