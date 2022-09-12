@@ -10,7 +10,7 @@
 
 ## Community Grants
 
-* [Overview](community-grants/overview.md)
+* [What is a Community Grant?](community-grants/what-is-a-community-grant.md)
 * [Applying for a community grant](community-grants/applying-for-a-community-grant.md)
 * [Community feedback on grant proposals](community-grants/community-feedback-on-grant-proposals.md)
 * [Presenting to the Grant Committee](community-grants/presentating-for-the-grant-committee.md)
