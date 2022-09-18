@@ -2,12 +2,12 @@
 
 # Privacy Policy
 The Graph AdvocatesDAO Foundation **(“DAO”, “we”, “us”, “our”)** is a decentralized
-governing body whose mission is to introduce, educate, and invite worldwide participation in
+governing body whose mission is to introduce, educate, and promote worldwide participation in
 the development of web3. The DAO oversees, among other activities, the Graph Advocates
 program along with the review and decision-making of a permissionless grants application
-program to further community awareness of and engagement in the web3 ecosystem. This
+program to foster community awareness and engagement in the web3 ecosystem. This
 Privacy Policy is designed to help grant applicants, web3 advocates, and others who interact
-with the DAO **(“applicant(s)”, “you”, “your”)** understand how we collect, use, and share your
+with the DAO **(“applicant(s)”, “you”, “your”)** to understand how we collect, use, and share your
 personal information and to help you understand and exercise your privacy rights.
 
 **[The remainder of this page is intentionally left blank.]**
