@@ -18,6 +18,7 @@
 * [After receiving a grant](community-grants/after-receiving-a-grant.md)
 * [FAQ](community-grants/faq.md)
 * [Privacy Policy](community-grants/privacy-policy.md)
+* [Grant Agreement](community-grants/grant-agreement.md)
 
 ## Advocates Program
 
