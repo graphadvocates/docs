@@ -11,7 +11,7 @@
 ## Community Grants
 
 * [What is a Community Grant?](community-grants/what-is-a-community-grant.md)
-* [Applying for a community grant](community-grants/applying-for-a-community-grant.md)
+* [Applying for a Community Grant](community-grants/applying-for-a-community-grant.md)
 * [Community feedback on grant proposals](community-grants/community-feedback-on-grant-proposals.md)
 * [Presenting to the Grant Committee](community-grants/presentating-for-the-grant-committee.md)
 * [DAO Voting process](community-grants/dao-voting-process.md)
@@ -34,7 +34,7 @@
 
 * [Overview](dao-operations/overview.md)
 * [Applying for Graph AdvocatesDAO](dao-operations/applying-for-graph-advocatesdao.md)
-* [Processing a community grant](dao-operations/processing-a-community-grant.md)
+* [Processing a Community Grant](dao-operations/processing-a-community-grant.md)
 * [DAOHaus Processes](dao-operations/daohaus-processes.md)
 * [Funding](dao-operations/funding.md)
 * [FAQ](dao-operations/faq.md)
