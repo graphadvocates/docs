@@ -16,6 +16,7 @@
 * [Presenting to the Grant Committee](community-grants/presentating-for-the-grant-committee.md)
 * [DAO Voting process](community-grants/dao-voting-process.md)
 * [After receiving a grant](community-grants/after-receiving-a-grant.md)
+* [Gnosis Chain Bridging](community-grants/gnosis-chain-bridging.md)
 * [FAQ](community-grants/faq.md)
 * [Privacy Policy](community-grants/privacy-policy.md)
 * [Grant Agreement](community-grants/grant-agreement.md)
