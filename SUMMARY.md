@@ -13,7 +13,7 @@
 * [What is a Community Grant?](community-grants/what-is-a-community-grant.md)
 * [Applying for a Community Grant](community-grants/applying-for-a-community-grant.md)
 * [Community feedback on grant proposals](community-grants/community-feedback-on-grant-proposals.md)
-* [Presenting to the Grant Committee](community-grants/presentating-for-the-grant-committee.md)
+* [Presenting to the Grant Committee](community-grants/presenting-to-the-grant-committee.md)
 * [DAO Voting process](community-grants/dao-voting-process.md)
 * [After receiving a Grant](community-grants/after-receiving-a-grant.md)
 * [Getting paid for your Grant](community-grants/getting-grant-paid.md)
@@ -40,7 +40,7 @@
 * [DAOHaus Processes](dao-operations/daohaus-processes.md)
 * [Funding](dao-operations/funding.md)
 * [FAQ](dao-operations/faq.md)
-* [Graph AdvocatesDAO Charter](https://drive.google.com/file/d/1CEO3hurmAhOIHvvGo9SAtiy31NyFW4n7/view)
+* [Graph AdvocatesDAO Charter](https://drive.google.com/file/d/1qoVdOZk9m4a1WDQD57C4GeLmSW8-eYLC/view)
 
 ## DAO Committees
 
